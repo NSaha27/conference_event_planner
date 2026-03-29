@@ -148,7 +148,7 @@ const ConferenceEvent = () => {
           }
         }
       }
-    const totalCost = {
+    const totalCosts = {
         venue: venueTotalCost,
         av: avTotalCost,
         meals: mealsTotalCost
